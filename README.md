@@ -1,5 +1,9 @@
 # Friends-of-Meditation
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 https://aditisinghchauhan.github.io/Friends-of-Meditation/
 
 # Add new section
