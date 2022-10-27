@@ -30,7 +30,7 @@ These are the steps to follow:
 You can see your portfolios without even deploying your webpage through this link:
 1. Copy the URL of your HTML file from Github.
 2. Add "htmlpreview.github.io/?" in the prefix of the URL.
-Example: [https://htmlpreview.github.io/?https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html](https://htmlpreview.github.io/?https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html)
+Example: [https://htmlpreview.github.io/?https://github.com/aditisinghchauhan/Friends-of-Meditation/blob/master/index.html](https://htmlpreview.github.io/?https://github.com/aditisinghchauhan/Friends-of-Meditation/blob/master/index.html)
 
 ## Reporting Bugs and Issues
 
@@ -38,8 +38,8 @@ If you have found a bug and you're confident it's a new bug and have confirmed t
 
 ## Contributors
 
-<a href="https://github.com/DecodersCommunity/portfolio-builder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DecodersCommunity/portfolio-builder" />
+<a href="https://github.com/aditisinghchauhan/Friends-of-Meditation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aditisinghchauhan/Friends-of-Meditation" />
 </a>
 
 ## License
