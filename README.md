@@ -18,17 +18,17 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 
 These are the steps to follow:
 1. First of all, fork this repository. If you want to work on your local system then you may clone the forked repo, but contribution can be done without cloning 😉.
-2. Go to ["Your Portfolio"](https://github.com/DecodersCommunity/portfolio-builder/tree/main/Your%20Portfolio) folder and add your image in the Image folder with your GitHub Username. For example, if your username is coder-gits, then rename your image as coder-gits.png
-3. In the ["Your Portfolio"](https://github.com/DecodersCommunity/portfolio-builder/tree/main/Your%20Portfolio) folder, create a file named YourGitHubUserName.html and copy and paste the contents of [this](https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html) file into it.
-4. Now, look out for the comments in the file and make appropriate changes according to you.
-5. Commit the changes and open a new pull request. Make sure to add Issue number #7 in the Description of the Pull Request you are making. 
+2. Add new section in the main repository with section name as your html code. For example, if section name is coder-gits, then rename your file as coder-gits.html
+3. In the ["index.html"](https://https://github.com/aditisinghchauhan/Friends-of-Meditation/blob/master/index.html) file, Link your section within the appropriate place.
+4. Now, look out for the comments in the file and write user github username and a short description about the section as the comment .
+5. Commit the changes and open a new pull request. Make sure to add Issue number in the Description of the Pull Request you are making. 
    
    Woah, its all done! HAppy Contributing.
 
-## See your Portfolios
+## See your Section
 
-You can see your portfolios without even deploying your webpage through this link:
-1. Copy the URL of your HTML file from Github.
+You can see your section without even deploying webpage through this link:
+1. Copy the URL of your HTML file (or index.html file) from Github.
 2. Add "htmlpreview.github.io/?" in the prefix of the URL.
 Example: [https://htmlpreview.github.io/?https://github.com/aditisinghchauhan/Friends-of-Meditation/blob/master/index.html](https://htmlpreview.github.io/?https://github.com/aditisinghchauhan/Friends-of-Meditation/blob/master/index.html)
 
