@@ -168,11 +168,11 @@ html{
     width: 80%;
     background: transparent;
     border-bottom: 2px solid black;
-    color: white;
+    color: black;
 }
 
 .inner-searchbar input::placeholder{
-    color: white;
+    color: black;
 }
 
 .back{
