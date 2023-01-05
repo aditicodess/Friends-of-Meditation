@@ -582,7 +582,20 @@ body {
     color: rgba(0,0,0,0.4);
     text-align: right;
 }
-
+.floatRight{float:right;margin-left:20px}
+.Best-apps{
+    text-indent: .5cm;
+    line-height: 1.5cm;
+    color: #1d1d1f;
+    font-size: 1.8em;
+    text-align:justify;
+}
+.inner-apps{
+    color: #F90;
+    font-size: large;
+    text-align:center;
+    text-decoration: underline;
+}
 
 
 
